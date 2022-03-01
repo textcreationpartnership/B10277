@@ -1,0 +1,494 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A preface, lecture, and a sermon preached by that famous servant of God, Mr. John Welsh.</title>
+            <author>Welch, John, ca. 1624-1681.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1686</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 51 KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B10277</idno>
+            <idno type="STC">Wing W1313</idno>
+            <idno type="STC">ESTC R186362</idno>
+            <idno type="EEBO-CITATION">61297197</idno>
+            <idno type="OCLC">ocm 61297197</idno>
+            <idno type="VID">180693</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B10277)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 180693)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2840:34)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A preface, lecture, and a sermon preached by that famous servant of God, Mr. John Welsh.</title>
+                  <author>Welch, John, ca. 1624-1681.</author>
+               </titleStmt>
+               <extent>32 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[Holland? :</pubPlace>
+                  <date>Printed in the year, MDCLXXXVI. [1686]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place and date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-04</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2012-04</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:180693:1" rendition="simple:additions"/>
+            <p>A PREFACE, LECTURE, And a SERMON, Preached by that famous Servant of God, M<hi rend="sup">r.</hi> JOHN WELSH, ſometimes Miniſter at <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ERINGRAY, Preached near to GREENOCK: <gap reason="illegible" resp="#MURP" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>ſhed by a Friend to the poor Church of SCOTLAND.</p>
+            <p>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rinted in the Year, MDCLXXXVI.</p>
+         </div>
+      </front>
+      <body>
+         <div type="preface">
+            <pb facs="tcp:180693:2"/>
+            <pb n="3" facs="tcp:180693:2"/>
+            <head>THE PREFACE.</head>
+            <p>MY Friends give over your ſpeaking, and let no voice be heird hear, but the voice of the Lord, in the mouth of his Ser<g ref="char:EOLhyphen"/>vant, I kow you are not ignorant, upon what hazard we come and preach: and upon what ha<g ref="char:EOLhyphen"/>zard we come and preach: and upon what ha<g ref="char:EOLhyphen"/>zard you come and hear, this meeting ye know is contraire to the Laws of our Land, and ye know how they are reproached, and what names they have given unto them: that they are called the randivoues of rebellione, and if ye would be furniſhed with ane anſwer in caſe you be called in queſtion for this dayes meeting, I will tell what all of you upon good grounds, may anſwer: the anſwer, I think you may give, is this, that our bleſſed Lord Jeſus Chriſt, hath engaged our lands in a ſoleme ſworne Covenant, with lifted up hands, to the moſt high God: that we ſhould own his Governmnet, and that we ſhould owne his Goſpel, and that we ſhould give no concurrance to them that are intruded upon the congregations, where his faithful Mi<g ref="char:EOLhyphen"/>niſters, have been thruſt out, with very great trueltie, without ſo much as bringing before them, as to paſs a ſentence upon them: if they had been wrong, yet inflicted that penaltie upon them, that they ſhould deſert congregations that they were intruſted with, and not only ſo, and to leave ther houſes but that they ſhould ceaſe to exerciſe that Miniſtrie that was given them by</p>
+            <pb n="4" facs="tcp:180693:3"/>
+            <p>Jeſus Chriſt and by his Servants, the Lord put<g ref="char:EOLhyphen"/>ing it in the heart of his Servants to come and offer themſelves to preach upon hazard, it was your deuty to come and hear upon hazard, this is Gods publick Standart ſett up in the feilds, a piece of the teſtimony that we have, that we deſire to be found faithful in his Covenant, and that the intreſt of our immortal ſouls calls for it, becauſe that we cannot expect the bleſſing, but from his ſent Meſſen<g ref="char:EOLhyphen"/>gers: we have immortal ſouls that moſt be loſt or ſa<g ref="char:EOLhyphen"/>ved: and theſe are the means by which we may be di<g ref="char:EOLhyphen"/>rected, how to gett our ſouls ſaved. Therefore be the hazard what it will we are bound to follow their meanes and when done with our worke weare willing then to die upon a ſcoffold for it, for you that are come out, we ſhall not pry into what hath brought you hither, that lyes between God and you, and he will examine you upon it, bu<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> ame afrayed, that it be with maney as it is record<g ref="char:EOLhyphen"/>ed in the 12. Chap. of Johns Ghoſpel: 9. vers.</p>
+            <p>I think I may ſay, there is a piece of curioſi<g ref="char:EOLhyphen"/>ty, that draus maney, it may be ſome to ſee ſuch a man, that his been ſo much perſecuted, and in ſuch hazard, upon whom the rullers hath given ſo great incouragement, to any that ſhould undertake it, what ſort of perſon he may be, alas Sirs ye will gett no thanks if this be all your ear<g ref="char:EOLhyphen"/>rand, and if this be your earrand you are faire to meet with a diſappointment, and that which ye ſhould be looking after and ſhould be ſeeking for, to meet with Jeſus Chriſt. Chriſt had raiſed a man from the dead, and the preſervation of man from death is ſomewhat very remarkable in time, but now Sirs ye are come together, we
+<pb n="5" facs="tcp:180693:3"/>ſay we ſhall not dive into your ends and motives that his brought you heir, but now you are come, I would aſke ſome few queſtions at you, and de<g ref="char:EOLhyphen"/>ſire you to chairg your conſciences that are heir that ye would conſider how you would anſwer them if God aſked them at you.</p>
+            <p>The Queſtions we are to ask at you, it may be ſeeme very ſtrainge how we aske ſuch Queſtions, I aske at your firſt, doe you believe that there is a God, or not, why, you moſt give me leive to ask this Queſtion at you, that call your ſelves Chriſtans, why, becauſe there are many ſo called, that lives as they did not believe that there were a God, lett the drunkard ſay what he will, let the ſwearer ſay what he will, he will hardly make a man that under<g ref="char:EOLhyphen"/>ſtands what beliving is, believe that, that man be<g ref="char:EOLhyphen"/>lieves, that there is a God, how is this made out? they are corrupt, they doe abominable works, they ſeek not God: they perſecut his people, Pſal. 14: &amp; 1. v. there are ſome that the Holy Ghoſt chairges with this infidelity, the fool his ſaid in his heart there is not a God, and ſo its made out as I told you before, they are corrupt they doe abominable works, they ſeek not God, they perſecut his people, and theſe arbrought in as evidences, that the man hath ſaid in his heart that there is not a God, if this be the evidences of unbelieve, then ſure we may chairge this upon maney, &amp; queſtion it, doe you believe that there is a God? the man that makes a ſport of ſin, believes he that there is a God, does the man that hears the threatnings of God againſt ſinners: and that wrath that is laying above the heads of ſinners, and does not flee from the wrath that is to come: does that man believe that there
+<pb n="6" facs="tcp:180693:4"/>is a God? no verely, he believes it not.</p>
+            <p>There is a 2d. Queſt. I would ask at you, and you will think this may be as ſtrainge, doe you be<g ref="char:EOLhyphen"/>lieve that you have immortal ſouls, that you have ſouls to live in a world to come: that there is ſuch a peice within you, that when your body goes to the duſt and rots there, yet that will be living eather in Heaven or in Hell, doe you believe this Sirs, if there were the ſaith of this fixed ſollidly upon the ſoul, then ſurly ye would be at ſome paines, to know, where your ſoul ſhall live after time, whither in everlaſting happines or in everlaſting miſerie, that man that hath all his craire for back and belly, that man that never boved a knee to God in prayer, let never that man ſay that he belives that he hath ane immortal ſoul within him.</p>
+            <p n="3">3. Doe you belive that ther will be a day whe<g ref="char:EOLhyphen"/>rin God will bring, Adam, and all his poſtere<g ref="char:EOLhyphen"/>tie, to a reckoning, for what they have done in bodies doe you belive that the judg is ſtanding at the door? doe you belive that it is ordained for all men to die, &amp; then to come to judgment, doe you Belive this judgment, that, at that that day ther will be ſuch a ſeperatione made amonge the Sons of Adam, that ther will be ſuch a ſentance paſt upon maney, as this, depairt from me ye workers of in iquitie; doe you belive that this ſentence ſhall be execut without all mercy? that ther will be no reverſing of it? if this were belived, could it be, but the man that had the faith of this, but they would be taking ſome paines to prepar for that day, the litle preparatione that is a mong the ſons of men, for that day, ſayes that this is not beli<g ref="char:EOLhyphen"/>ved, doe you belive that ther is ſuch aplaice of
+<pb n="7" facs="tcp:180693:4"/>torment, for the reprobat, that God hath apointed: <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d ſuch a plaice of joy for them that are his peo<g ref="char:EOLhyphen"/>ple, that are walking in the wayes of holines? if this were belived: would ther not be more cair and paines takne to be found in him, in peace and without ſpot; and blemiſh. what ſall we doe for you firs? ther ar ſome of your faces declaires that Sathan hath hardned your hearts, and ſin hath hard<g ref="char:EOLhyphen"/>ned your hearts, that thir words that are ſpok<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e takes litle effect upon you, ô what may this pro<g ref="char:EOLhyphen"/>gnoſticat, to ſee a companie of men heiring of mat<g ref="char:EOLhyphen"/>ters, of ſo great importance and yet ſo litle affected: with what they hear, weel Sirs, ther will be ane awakning, for this, and a dreafdull a wakning to maney a ſoul, we think we have as much in our in<g ref="char:EOLhyphen"/>ſtructions, as might make our meſſag to have grea<g ref="char:EOLhyphen"/>ter force and effect then it hath, we preduce the word of God, for what we ſay, the word of him that cannot lie and yet yow doe not regaird it, we produce the, ſtrongeſt reaſons for what we ſay, and your conſciences cannot but be convinced, that ther is reaſon for it, and yet it hath no effect, we have your conſciences upon our ſide, ſometimes telling you, as you may finde it indeed, tath what we heared ſpoken by the Miniſter is trew, and what I heared was my caſe and conſcience moſt doe its office, and who knows but it ſhould have ſome et<g ref="char:EOLhyphen"/>fect, with what we ſpeik to you, but alas our ex<g ref="char:EOLhyphen"/>perience makes out the contrare to us, and we have ſomtimes your own experience to help us to preſs ſomthing, that we are preſſing upon you, we are telling you that when death comes that it is a time ve<g ref="char:EOLhyphen"/>rie unfit to ſet a bout the worke of repentance, and when you have come neir death and ye have found
+<pb n="8" facs="tcp:180693:5"/>that your ſicknes is ſo great, that ye could not mind the caiſe of your ſouls, and your experience tels us this, and our experience tels you of it we would not leive it to this pas, yet we finde you doe ſo, my freinds I moſt tell you two things, for to putt you in ſome frame, if the Lord wold tell them to you, and give you the faith of them; firſt I moſt tell you this, the Lord is this doy a<g ref="char:EOLhyphen"/>mongſt us, he is heir in this congregatione, he is going up and down among this meeting, and ob<g ref="char:EOLhyphen"/>ſerving everie one of you, what will hee finde, that ye are cariing rightlie before him, alas the contraire is much to be ſeared, that hee marke out this man heir and that woman ther, and ſay they doe not more regaird what I ame ſpeaking to them, then I wer a lier to them, God is nou keeping ſilence, and does not execut vaingance ſpeede lie, and men may make a wrong uſe of it, and therfor ther hearts is ſett in them to doe, that becaus he does not preſentlie execut vaingance and they think hee is not ſtill angrie at ſin as the miniſter tels us: read it ſirs in the. 50 Pſal.: at the cloſe: I kee<g ref="char:EOLhyphen"/>ped ſilence but I will let you know, that ye have being in the wrong, and ye have miſtaken the meaſu<g ref="char:EOLhyphen"/>re, I will reprove you and ſert your ſins in order before you, conſider this ye that forget God leiſt he tear you in pieces, and ther be non to deliver you ô Sirs but its ill getting wind raiſed, ô but you are hard to worke upon. We have found in ſome places, wher the providence of God hath triſted us, that the verie face of a Miniſter, that it would have helped the people to a frame, and the verie face of the people would have helped the Mi<g ref="char:EOLhyphen"/>niſter to a frame, but we moſt tell you, you make
+<pb n="9" facs="tcp:180693:5"/>us dull to ſee your dullnes, o freinds why come ye heir, are you come heir to add this to all your former guilt, that ye will come and caſt alle his words behind your backe, if you doe ſadlie will your reckning be, but heir I ame as ane unworthie Servant of Jeſus Chriſt, to declair unto you, that you will be brought befor the Tribunall of God, and ſo will I be brought ther alſo: we will be ex<g ref="char:EOLhyphen"/>amined for this dayes preaching, and for this dayes hearing, and it ſhall be ashed at me, did you tell the people ther ſin, what did they with it, made ye ane offer of Chriſt it is to them, did they accept of me: we moſt tell as it is, we moſt not ſtand upon feed ore favor of aney, we ſpake but you folk did not hear, and they regarded not, what we ſaide, we told them that ther was a day coming, that thow would judge them, yet they never regarded us, no more then we hade be in reading a Hiſtorie of David lindſey, ore out of ane other book: weel ſirs, as I ſaide be for, you ſhall eather gett a bliſſing to goe home with you, or a curſe clapt upon your haed, I cannot tell who will gett the bliſſing but thes that hath bein wreſtling for it, may Looke for it, but thes that have come upon aventure, I cannot tell what they may meet with, ô wretched ſoul, if you goe away from this place, and gett not ſome thing in they armes: if you gett no hunger and thirſt after Chriſt it will be ſad: but I ſhall ſay no more by way of Prefacing. Lett us pray.</p>
+         </div>
+         <div type="lecture">
+            <pb n="10" facs="tcp:180693:6"/>
+            <head>THE LECTURE In the ſecond Chap. of Jer. at the 12. vers. We begin to read two or three Verſes.</head>
+            <p>
+               <seg rend="decorInit">I</seg> Shall but ſpeak a ſhort word upon thir Verſes, we ſhall take up thir words that we have read in theſe three things: Firſt, you have a heavie and a Sade chairg given in againſt Iſrael, what was that? they had forſakne the fountaine of living wa<g ref="char:EOLhyphen"/>ters and had digged unto themſelves, brokne ci<g ref="char:EOLhyphen"/>ſterns that can hold no water, there is Gods chairg.</p>
+            <p>Secondly, ye have what the Lord does in that the chairge hee gives in againſt them, may affect them, what doeth hee, hee crayes nnto the hea<g ref="char:EOLhyphen"/>vens, as they had ears to hear, he ſpeaks to them and crayes to them, O Heavens be aſtoniſhed at tis, O Heavens be ye horrably affraied, that my people that had entred themſelves in covenant with me, that they ſhould have thus forſakne me, and forſakne me for that which they receave no advan<g ref="char:EOLhyphen"/>tage of, as it is in the former vers. Hath a Nation chainged there Gods, for that which doeth not prophit them.</p>
+            <p>Then thirdly there is in the words a Lamentation that the Lord takes up, ſo we may take up theſe words, or ſeondly achallinge, that he gives to the enemy, what ſayes he? how is this that ye guid my
+<pb n="11" facs="tcp:180693:6"/>people, and how is this that my people ſuffer them<g ref="char:EOLhyphen"/>ſelves to be thus guided, what is Iſrael a Servant, what think you, is Iſrael a home born ſlave? why then if he be a ſone of mine, and if he be free borne why is he ſpoiled thus? why deall ye with Iſrael as if he were a ſlave? or it may be ſpoken by way of Lamentation, alas! how my people, how they are guided, is Iſrael a Servant? he is not a Servant, he is not a home borne ſlave, for that is the import of the Queſtion, a ſtrong negation, you are mi<g ref="char:EOLhyphen"/>ſtaken to think, that I will not have reſpect to I<g ref="char:EOLhyphen"/>ſrael, I will cauſe you yet anſwer for the ſpoill of I<g ref="char:EOLhyphen"/>ſrael; why then is he ſpoilled.</p>
+            <p>And then you have this particularly laid out what it was that enemies did to Iſrael, the young Lions rored upon them, and yelled, and they made his land waſte. His citties are brunt without inhabi<g ref="char:EOLhyphen"/>tant, I have ſeen, for all that is done to my Church I will take order with it, ye ſhall finde that I lay claime to Iſrael, and then I have ſad chairges and challenges to give in againſt them, yet I will give no thanks to them that hath ſpoilled my poor peo<g ref="char:EOLhyphen"/>ple, my ſones that I have ſuch reſpect unto.</p>
+            <p>Then is 5. or 6. words of obſervations that we ſhall give of them and cloſe this exerciſe and enter upon another. The firſt Obſ: is this, that the Lord hath ſometimes very heavy and ſad verbal chairges, to give in againſt his Church, the Lord hath very much to charge upon his Church that he is ill plea<g ref="char:EOLhyphen"/>ſed with, look to the 4. Chap of Hoſea at the begin: ye will ſee there like the controverſy: what is the chairg: becauſe there is no truth mercy nor know<g ref="char:EOLhyphen"/>ledge of God in the Land, 2. vers, by ſwearing and lying and committing adulterie they break out, and
+<pb n="12" facs="tcp:180693:7"/>blood tutcheth blood, and therefore the Lord hath a contraverſy with Iſrael, no truth, no ſincenity in the Land, &amp;c. There the chairg and 81. Pſal. there a ſad chairg given in againſt Iſrael from the 10. vers. I a me the Lord the Lord the God that that brought to the out of the Land of Egypt, and out of the houſe of Bondag, opne thy mouth wide &amp; I will fill it, but what is the chairg, but my people would not harkne to my voice, and Iſrael would non of me, and Deut, 32. and 5. There a ſad chairg given in againſt Iſrael, the chairg is this, they have corrupted themſelves ther ſpot is not the ſpot of his children, they are a pervers and a wicked generati<g ref="char:EOLhyphen"/>on, and here a ſad chairg given in againſt them, they have forſakns me the fountan of living Waters, add have digged to themſelves brokne ciſternes that can hold no water, ô! ſayes hee, this is a verbal horrible chairg that I have to give in againſt this Church of Iſrael, now this God never had more terrible chairges to give in againſt a Church then the Church that we live in, ô but we have behaved unworthely, God planted us a noble vine, but we are become a degenerat plant unto him, God in<g ref="char:EOLhyphen"/>gadged us in a ſolemne Covenant to be for him and with lifted up hands to God, we did ſwear, how is that Oath keeped, how is it but the Lord may chairg us with horrible perjury, ſome hatht akne the Declaration, that is ane opne way of a woued perju<g ref="char:EOLhyphen"/>ry, and ſome hath takne this bonde that there poſte<g ref="char:EOLhyphen"/>rity will think ſhame of, if it ſhould be reakned to them, that there fathers ſhould have done it, ô horrible chairg that ſuch ſhould put Chriſt out of Scotland I ſhall ſay no moor to this point</p>
+            <p>The 2d obſ: that I ſhall give you is th is, that
+<pb n="13" facs="tcp:180693:7"/>when the Lord is chairging his people with horrible things, he would then have his people affected with what he chairges upon them, he would not have them making light of his chalinge, therfor when heſpeaks in that. 1. of Iſai: to the people he eraies here o heavens what a chairg I have to give in ag<g ref="char:EOLhyphen"/>ainſt my people, the ox knowes his ouer, and the as his maſters cribe: but my people does not know, nor Iſrael does not conſider, ah ſinfull nation ſayes he, a ſeed of evil doors childrene, that are tranſgreſ<g ref="char:EOLhyphen"/>ſors &amp;c. God would have a people when hee is chair<g ref="char:EOLhyphen"/>ging aney thing upon a church that is horrid wicked<g ref="char:EOLhyphen"/>nes, he wold have all men to be ſo much affected with the chairg, as that they might lay it to heart, ther are ſome folke that will lay nether ſin nor judgment to heart, God would not have folk doing ſo; but laying both to heart, Ther was in the. 42. chap: of Jſa: and 24. they did not conſider who gave Jacob to the ſpoill, and Iſrael to the robbers and that it was the Lord: and that it was becauſe they had fin<g ref="char:EOLhyphen"/>ned againſt him, and hee ſett them on fire round about yet they laide it not to heart.</p>
+            <p>The 3. thing in the words, be aſtoniſhed o he<g ref="char:EOLhyphen"/>avens, and be horrible afraide, holds furth a great ſtupidetie to be in ſinners, that is not affected with all the guilt, that is chairged upon them, ô if ever ther was a ſtupid generatione ſince the world began, it will be found this day, that make light of all the chairges, that is given in againſt them this day, I ſpake to them, but wer they at all aſhaemed, when they did ſuch things, no ſayes hee they wer not att all aſheamed. Jer: 8. and 6. J harkned and heird but they ſpake not aright, no man repented him of his wickednes, ſaying what have I done, eve<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ie one
+<pb n="14" facs="tcp:180693:8"/>turned to his cours: as the hors ruſheth to the bat<g ref="char:EOLhyphen"/>tel, they arre never ſo much as once brought to a ſerious thought, as to ſpeir the queſtione, what have I done?</p>
+            <p>The 4. thing that I nott is this, that when God Sumonds up folks faults, hee wil find two faults and ſee two wher men ſees but one, you ſee heir they committed two greatievels, wha<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> was that ſome would thinke that that was but one evel, they have forſakne me the fountan of living waters, and they have made brokne ciſternes that cane hold no water, that was ther faults, ther was two faults, it may be looked upon as one, yet God wil find it two and verie groſſ two faults, and God will looke upon it as two befor long, let us looke to the chairg, they have forſakne me the fountane of living wa<g ref="char:EOLhyphen"/>ters, two things ther. 1. Chriſt Jeſus is the Fountain of living Waters, what is that, he is the Foun<g ref="char:EOLhyphen"/>tan of all the refreſhings of his people, all the con<g ref="char:EOLhyphen"/>ſolations of Iſrael: they have all ther ariſe from him, all the conforts of his people whil under ſuf<g ref="char:EOLhyphen"/>ferings, all ther ariſe is from. Jeſus Chriſt, hee is the Fountan of all ther confort and conſola<g ref="char:EOLhyphen"/>tion.</p>
+            <p>The nixt thing that I ſee is this, if he be the Fountane of our conſolation, then we take alwayes the wrong way, when we are under a diſconſolat Eſtate: when we turne not to him, for our con<g ref="char:EOLhyphen"/>ſolatione, are you not going to your prayers to God to gett your conſolation, he is the auther of all thes, and the Fountane of living Waters, and he is the ariſe of all thy coſolation.</p>
+            <p>Another word that we ſhall ſay, that which they wer chaged with, they turned ther backs upon God,
+<pb n="15" facs="tcp:180693:8"/>that was the Fountain of living Waters, then we come to this, Is Iſrael a ſervant, is he a home bor<g ref="char:EOLhyphen"/>ne ſlave, why is he ſpoilled, the Lord he turnes now againe to his enemies I have a quarrel with my people, but for all the quarrel I have againſt them, I allow you not to quarrel with them. I will owne Iſrael, you moſt not think that I will not owne Iſrael, is Iſrael a ſervant to doe what ye would have him to doe, is he a home born ſlave, if ſo be he is not ſo, why is he ſpoilled then, I will find you guiltie, and chairg you for it. I will cauſe you reckon for all the robries and ſpoil that my people meits with.</p>
+            <p>Two Obſervations that I ſhall not from hence is, 1. the Lord is very angry and diſpleaſed, to ſee his people of a baſe ſervial covardly ſpirit, that ſub<g ref="char:EOLhyphen"/>jects themſelves to all impoſitions, that the enemis impoſeth, what ſayes he this is not like Iſrael, he ſhould be a man of ane other ſpirit then that he ſhould carie like a home borne ſlave, to bear the burthens that enemies layes one, ô but this is ſad at this time, ther is aſſes backes and aſſes diſpoſiti<g ref="char:EOLhyphen"/>ones in his peoples diſpoſitione, that they bear what enemies layes upon them, its not patience no, its ſtupifiednes in them, ô but its ſad that it ſhould be ſo: when this comes a longs that ther is a bond, and the man caries lyke a ſlave to the enemie to them that lay on the burthin upon the conſcience, and when Ceſſes is laid on by our enemie, to bind a ſnair upon men, that thes ceſſes arre laid upon ma<g ref="char:EOLhyphen"/>ney, for reaſing up ſuch for to thruſt the Ghoſpell out of the land, and to put down thes rebellions meetings (as they call them) yet to ſee ſuch a ſlaviſh diſpoſition, in thes that proves them ſelves to be the
+<pb n="16" facs="tcp:180693:9"/>people of God, that they ſhould ſubject them ſel<g ref="char:EOLhyphen"/>ves to ſuch burthings; why then is he ſpoiled: this is matter of lamentation ſas if hee would ſay to ſee the people ſo ſervial, I ame angrie at you my freinds, to be of ſuch a ſlaviſh temper and diſppſitione, I a<g ref="char:EOLhyphen"/>me angrie at you for it, and ther was never a time that his people manifeſted a ſlaviſh temper and diſ<g ref="char:EOLhyphen"/>poſitione more, then they doe in thir dayes, and as hee is angrie with his people for having of it, ſo is he angrie at the enemies for dealling ſo with his people, as ſlaves and ther was never a time wher in his people wer dealt more with as ſlaves, then they have bein in our dayes, but I ſhall goe no further in this excerciſe but ſing. Pſal. 94. and 4.</p>
+         </div>
+         <div type="sermon">
+            <pb n="17" facs="tcp:180693:9"/>
+            <head>A SERMON. THE TEXT. In the Song of Solomon 3d. chap, and 11. vers.</head>
+            <head type="sub">Goe furth ô you Daughters of Zion, and behold King Solomon with the Crown, wherwith his mother crouned him in the day of his Eſpou<g ref="char:EOLhyphen"/>ſals, and in the day of the gladneſs of his heart.</head>
+            <p>
+               <seg rend="decorInit">I</seg>N the beginning of this chapter, we have the excerciſe of the ſpous under a deſerted conditione, ſhe ſeeks him u<g ref="char:EOLhyphen"/>pon her bed whom her ſoul loveth: ſhe ſeeks him upon the ſtteats, ſhe ariſeth to ſeek him, ſhe goes to the watchmen to ſeek him: and ſtill ſhe meets with diſapointments, now ſhe finds him, ſhe begins to look weel to him in the ninth vers, I may not ſtande in prefacing ther we have a diſcription of the brydgroome, of the King, of our Lord Jeſus Chriſt, the deſcrip<g ref="char:EOLhyphen"/>tion given of him, is this, hee is called a King, and made himſelf a Chariot of the wood of Leba<g ref="char:EOLhyphen"/>non, he made the pillars therof of Silver, the bottome therof of gold, the covering of it of purple, the midſt therof paved with love: for the daughters of Jeruſalem, ther you may get a ſight of Chriſt, in his ſteatly ryding in this Goſpel.
+<pb n="18" facs="tcp:180693:10"/>In the laſt vers ther is ane exhortation, to the people of God that are called here the daughters of Zio<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> and the exhortatione given to them is this, that the<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> would goe forth and behold king Solomon, and the<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> you ſee kow he is adorned, with a croun, whe<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> with his mother crowned him: it is that whi<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> his Church crounes him with we remember ther <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> three crouns that he wears. 1. the croun that his fa<g ref="char:EOLhyphen"/>ther crouned him with, and that he wears, and that the father dignifies him with: that ſets hi<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> doune at his right hand: a bove all his enemies.</p>
+            <p>And a 2d croune that he weares, is that which his mother crouned him with (meaning the church) in the day of his eſpouſals, in ther cloſing with Chriſt, which is the day of the gladnes of h<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> heart.</p>
+            <p>The 3d croun that he weares, is that croun wh<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> with his enemies crouned him with, which <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> plaited of thornes, ô that croun of thornes, that <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> was made to wear, when was hee was crouned, in <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> day of his eſpouſals, in the day of the gladnes of <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> heart. 4. ore 5. things I ſhall ſpeik too and cloſe t<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> exerciſe and diſmiſſe you.</p>
+            <p>The firſt thing, is the ſtyle that Chriſt ge<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> here, he is called King Solomon, and he gets th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſtile not only to be a King, but he gets this ſtile <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>kne from Solomon, for ye know that Solomon w<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> the rareſt King, that ever was before ore after hi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ther was non like him.</p>
+            <p>Firſt he was a King that had very much poure, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> his enemies round about were made to ſubject, a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> bring preſents to him; he was of a great deal of w<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>dom, ſo is our Lord Jeſus Chriſt he is the Ki<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> only wiſe, and he was a King that had a great d<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <pb n="19" facs="tcp:180693:10"/>of glorie, look but to his thron ſo maney ſteps up to it, and ſo maney lions guarding the thron, a glorions thron all lyned with pure gold. he is a glo<g ref="char:EOLhyphen"/>rious King in thes reſpects and Solomon he was a verie rich King, and he was ſuch a King, that he made all his ſubjects to abound with wealth, he ma<g ref="char:EOLhyphen"/>de in his day, Jeruſalem the corner ſtons thereof to be as ſilver and gold.</p>
+            <p>Now, what his deſing is, by giving thes ſtiles to King Solomon? that was Jeſus Chriſt, he is a glorious King, the Father had apointed him, Solo<g ref="char:EOLhyphen"/>mon was apointed by a divine decree: to be King of Iſrael. So our Lord Jeſus Chriſt, is apointed by a divine apointment to be King and head of his church. Pſal. 2. I will declare the decree, thow artt my King, thow art my ſon, this day have I begot<g ref="char:EOLhyphen"/>tne the. I will give thee arod of jron, to break thy enemies, he is a King of great power and wiſdom, and a King of great riches, and a King that inrich<g ref="char:EOLhyphen"/>eth all his ſubjects. Now, ſirs, its a ſad matter that this King, ſhould have mett with ſuch a meeting, from our King and our rulers: that this Crouwn ſhould be taken of his head, and ſett upon the head of a poor ſinful man and as it were his kingly power exauterat, and that uſurped and taken by a man, this is that which we have to regreat this day, in ſtead of loialety to him, the moſt pairt of all the na<g ref="char:EOLhyphen"/>tions are turned rebels to him, and turned againſt him, &amp; his been active to deveſt him of that power that he was cloathed with.</p>
+            <p>But nixt the ſtile given to the believer, to the Daughters of Zion, goe forth ye Daughters of Zi<g ref="char:EOLhyphen"/>on, (that is to ſay) ye that are borne into the Church, and borne by the immortal ſeed of his
+<pb n="20" facs="tcp:180693:11"/>word. I would have you that are the membres <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the Church and hath any reſpect and kindneſs <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> King Solomon, I would have you goeing forth, that leaving all your injoyments and pleaſure an<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Profeets, and taking a look of this King.</p>
+            <p>And the obſervation I ſhall ſpeek to is this, th<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> it is the deutie of the people of God, to be takin<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> maney looks of King Jeſus what are you come he<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> for ſirs: Is it not to gett a look of the King in thi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ordinances, is not this your end and earrand, if you have not this for your earrand, you will get litle thanks and weelcom from him, but and if th<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> by your earrand to gett a ſight of the King, as h<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> rides in the chariot of the Goſpell, then you ob<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> the command given to the Daughters of Jeruſale<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> and the Lord will not be ſtraeng to give a looke<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> himſelf, if you be in earneſt, to goe furth and be<g ref="char:EOLhyphen"/>hold him. Ther the nott.</p>
+            <p>That it is peoples deutie, when the Lord com<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> in the chariot of the Goſpell, to make ane offer <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> himſelf, they ſhould goe forth and leave all th<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> injoyments, and leave all behind hem, and get <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſight of Chriſt in his ordinances, And therefor <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> eſpetialie that are mor eminent in the world, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> our Maiſters name we weelcome you, if you c<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> ſay that is the thing ye would have done to get a ſight of King Solomon, Chriſt in the chariot o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Goſpel, it is for that earrand I come heir, to get a ſight of him: that I may keep him for mane<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> dayes, I have ſtepped out of all my injoyments <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> may be I will heir tell of it after this, yet I cair not <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> I have gottne a ſight of Chriſt in his ordinances, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſay in our Maiſters name you are welcome heir, an<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> you will gett a bliſſing, if you have a mouth open<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <pb n="21" facs="tcp:180693:11"/>to receave you ſhall gett it, it is your duty to be<g ref="char:EOLhyphen"/>hold him, but ſay ye how will I get a ſight of him, there are 4. of 5. glaſſes that he ſhines in, through which you may gett a ſight of him.</p>
+            <p>Firſt, in his word there get a ſight of him get a ſight of him in the preached Goſpel, there get a ſight of him in his Chariot, that is all paved with love.</p>
+            <p>Nixt, get a ſight of him in his atributs, you may ſee what are theſe, and you may gett a ſight of him in his offices, and ſufferings, that he under went for ſinners. Therefore, ô ye Daughters of Jeruſalem or Zion, ye that live in this corner, will ye come forth this day and leave your injoyments, and take a looke of him in the Chairot of his Goſpel, here he is come this day to make a viſit to Greenock, ô if you were forced to cry out, how lovly is thy Taber<g ref="char:EOLhyphen"/>nacles? how lovly are thy Ordinances? where thow art in the midſt of them: and to be ſeen there.</p>
+            <p>Now, Sirs, there are ſome upon the other hand, that they will not come out for fear of a fyne, and for fear of ther Land, Tho the Lord be craying to all ſorts of men, to come furth and take a looke of Chriſt this day: and ſee his garments dyed all red for ſinners, take a look of him in his wounds and hands and feet, and take ſuch a look of him till your heart be raviſhed with the ſight of him, and look to him, and take a look of him till ye gett a ſight of your neid of him, for hee is coming fnrniſhed with all things that will make his people happie. Come and beyold King Solomon, come this day and take a look of our King, ye that was ever beholding vanety and looking after lies, will you be perſwaded to come and take a looke of Jeſus Chaiſt, ô Sirs, if Heaven
+<pb n="22" facs="tcp:180693:12"/>can be gotten by a look its ſad to loſs it, for he hath ſaid look unto me allye ends of the earth and be ye<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſaved.</p>
+            <p>What are you a poor blind body, take a look of him, hee will give eyes to the blind, they looked to him in that 34. Pſal: and were inlightned, and were not aſheamed. They get light to looke to him, and a ſight of him will make that hard heart melt witin you, come to him and looke to him, they ſhall look to him or upon him, whom they have pearced and mourne for him as one mourneth for his only begotne Son, ô therefore look to him then, and if you would have life and light and fur<g ref="char:EOLhyphen"/>ther what is it, that you ſtand in need of, its all that God calls for, its that man that would come and take a look of him, and I think its a ſad matter, that your hearts are litle ſtirred for all that we ſay to you. What is Chriſt come in the Chariot of the Goſpel, and in all theſe glorious properties? and have you never looked to him? ô Sirs, is he ſaying look unto me and be ye ſaved for I ame God.</p>
+            <p>We ſee this nixt, goe forth ſayes he ye Daughters Zion, and behold King Solomon, what will you<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſee of him, you will ſee a glorious ſight, a Crown that ye will take pleaſure into, ſee him with the Crown that his mother crowned him with a glori<g ref="char:EOLhyphen"/>ous ſight if ye would behold him.</p>
+            <p>There are three words that I ſhall ſay. Firſt, I ſhall ſay this, that there are ſome particular dayes in the Church: that are dayes of Eſpouſals, betwixt Chriſt, and ſinners and ends, wherein he eſpouſeth ſinners to himſelf.</p>
+            <p n="2">2. That whoever they are, that are eſpouſed to Jeſus Chriſt, they putt the Crown upon his head,
+<pb n="23" facs="tcp:180693:12"/>they putt glorie upon him, for they witnes, that they believe the record, that the Father hath given of him.</p>
+            <p n="3">3. That a ſinner is content: to be eſpouſed to Je<g ref="char:EOLhyphen"/>ſus Chriſt and cloſeth with him, in a mariage Co<g ref="char:EOLhyphen"/>venant, is the day of the gladnes of his heart. Theſe three words I ſhall ſpeak of to you and cloſe this ex<g ref="char:EOLhyphen"/>erciſe, conſidering the time we have to ſpair, we ſhall containe all in half ane hour.</p>
+            <p>The firſt thing that we ſhall ſay, that there are ſome particular ſeaſons, and times, that the Lord makes remarkable for eſpouſing ſinners to himſelf: to take it thus, that there are ſometimes that he makes the Goſpel to take this effect, that menre forced to yeald themſelves to Jeſus Chriſt, that they can hold furth no longer they moſt yeild to him, they cannot ſtand out, anay longer, there are ſome<g ref="char:EOLhyphen"/>times that a ſinner will ſtand it out againſt Chriſt: and ſay again and again and a thouſand times though he ſhould ſtreatch out his armes never ſo often. And yet we ſee how maney have holdne Jeſus Chriſt co<g ref="char:EOLhyphen"/>ming to them and crying to them, ô ſinners will ye break my heart, ô why will you not come to me, &amp; get a look of me, ſeeing I ame content to take you and marrie you, black as ye are. What makes you ſtand out and will not yield: But there are ſome<g ref="char:EOLhyphen"/>times ſome particular ſeaſons, that the Lord will win in upon ſinners, nil they will they, he will cauſe them make a bargan, and it ſhall be a day of eſpoſals. It is a wonderful thing, that one preaching will work upon a heart, that a thouſand preachings before has not done it has not bien before, why is this? Why? Gods day is come, that he will have ſinners eſpouſed to him, and he will no longer be
+<pb n="24" facs="tcp:180693:13"/>put out, and he will put in his hand, at the handle <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the lock, and he will ſay eather open the door, (<gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> I will ſtand no longer) eather open to me, or elſe <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> will lay the door upon the floor: if you open it not <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> this is ſometimes that our Lord comes with ane ir<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ſiſtable power, that he will not have a nay ſaying <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Luck. 5. and 17. there was a day, (chriſt preache<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> many a day to the Scribes and Phariſees) But never the better, but a remarkable day that he preached unto them, and he wrought upon them, and his power was preſent to heal them. So I ſay ſinners will get many offers of the Goſpel, and ſit this day, and the ſecond day, and the third day: But there is ſome times God wil come with the power of the offer o<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> the Goſpel, that there ſhall be no more ſitting, but that ye ſhould come forward and cloſe with the offer of the Goſpel, that he makes offer of in this place, ô when ſhall the day come to this place? O whe<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> ſhall the day come that they ſhall be made a willin<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> people in the day of his power: that you ſhall not b<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> able to ſtand out longer, that ye dowe not ſit<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> longer, that you find your hearts all raviſhed with his love, every Church hath there day and every per<g ref="char:EOLhyphen"/>ſon hes there day of eſpouſals to all thir nations; no<g ref="char:EOLhyphen"/>ble men and gentle men, and all men to come into a Covenant with the Lord, to be eſpouſed to the Lord, ſo he hes come with the Goſpel ſometimes: ſome hes lived. 40. Years under the Goſpel, but h<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> reſiſted it, but he hath come one day and come with power, that he was not able to reſiſt it now, O Sirs when will this day of power come, O will it never come to this day with you, ye heard much of it, and many words of it, but will not the day of eſpouſal<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> come, O Sirs, let it be now, it may be you ſhall
+<pb n="25" facs="tcp:180693:13"/>never have an other day, therefore let it be now.</p>
+            <p>I come to ſpeak to the 2d. thing that I may haſtne, the great earrand of the Goſpel, is to eſpouſe ſinners to himſelf, he is coming in the Chariot of the Goſpel in the 9. and 10. verſes he is coming out in the Chariot, a glorious Chariot, what ſayes he? go forth, ſayes he, and meet him, and what ſa<g ref="char:EOLhyphen"/>yeth he more? make up the mariage before you come home again, this is the end of the Goſpel, to make up a mariage betwixt him and ſinners: 2 Cor. 11: and 2. look a word to this purpoſe, for I ame, jelous, over you, with Godly Jelouſy, for I haye eſpouſed you to one Husband: that I may preſent you as a chaſt Virgine to Chriſt, ſaith Paul, my great deſing in ſending the Ghoſpel amongſt you was that I may eſpouſe you to one Husband Jeſus Chriſt. There is the Scope of the Goſpel. Where<g ref="char:EOLhyphen"/>fore ſent he the Goſpel here before there was a world, and before time was, you behoved to come heir the day, and you ſhall heir ane other offer, and the end of his Chariot coming to Greenock, to this mountan ſide is to make ane offer of Chriſt, and that there be a mariage, and that there may be ſuch ane union as man and wife, that there may be a mu<g ref="char:EOLhyphen"/>tual intreſt in all that you have, and that there may he mutual communications of love, one with ane other, as love betwixt man and wife, from this, day forward, the Lord hath tryſted you here. Before there was a ſtone laid in this world, this day was determined, end you were the man and woman that were to be heir, and you were the people and this behoved to be the place, and this behoved to be the Preacher and this behoved to be the Text. And therefore ſeeing it is ſo, I come heir as Chriſts Mi<g ref="char:EOLhyphen"/>niſter,
+<pb n="26" facs="tcp:180693:14"/>to take up all your names, betwixt Chriſt and you, and to proclaime to you, that Chriſt hath a purpoſe of mariagee betwixt him and you, and if this be the day of mariage, and his effectual work<g ref="char:EOLhyphen"/>ing, you will ſay put up my name: and you will ſay put up my name: and you will ſay I have a pur<g ref="char:EOLhyphen"/>poſe of mariage with him, and I have a minde to take him.</p>
+            <p>What ſayeth the Lord? I ame jelous over you with a Godly Jalouſie, but I have eſpouſed you to one Husband, a chaſt Virgine, but it was my great work ſayeth Paul. once to gett that day, ſett, and and a contract ſubſcrived, and the great mariage day ſo ſolemnized at the day of Judgment. What ſay ye, Sirs, is there a ſpouſe for Chriſt heir? who will not take him, and believe in him, ob: O glad would I be to take him, but I kno not if he will take me, let not that be your fear, there are in Heaven that were as you are that were heirs of Hell, imps of the Divel, Divels limbs as you are wretch<g ref="char:EOLhyphen"/>ed as ye are, ſold under ſin and under wteath and ſuch as you are, but to you I ſay be but willing this day, and if ye give but your conſent this day, if you ſay this day even ſo I take the upon the termes, that thow offers thy ſelf, I declaire in my Maſters name you are wealcom, and for this end, hath he ſent me to this place, as his Ambaſſador to you, to invite you to come, &amp; rouſe your ſelves, &amp; eſpouſe yourſel<g ref="char:EOLhyphen"/>ves &amp; let it be ſeen, that there is a bride upon this hill ſide the day, that will be eſpouſed to him, and will be his bride, and give your hand to him, and give up your ſelves, and be faithful to him, and do all the dutyes of a lovîng ſpouſe; Now, Sirs, O! ſay ye, do but this litle favour, clear this a litle, this
+<pb n="27" facs="tcp:180693:14"/>is a great word to be maried to Chriſt, the Fathers only Sone, how can ye inſtruct that this is your worke, what can you ſay, I fear that he caſt at us, we have nothing, what will hee ſee in the ſhulla<g ref="char:EOLhyphen"/>mit, bnt as the Company of two Armies, what will he ſeein us that he may deſire us yea ſayeth the Lord, for as vile and abominable as you are, yet come your way I ame content, to come and jovne in mariage with you, upon theſe conditions, that ye wil<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſubſcribe my Contract that I ſhall make: there are three things that we ſhall clear a litle, and make a wordof application.</p>
+            <p>For the firſt thing is this. how is this evident that Chriſt is content to marie ſinners? know you, Sirs, what Chriſt did Chriſt hee came out of Hea<g ref="char:EOLhyphen"/>ven to ſhew his willingnes to marie you, he took up<g ref="char:EOLhyphen"/>on him the nature of ſinners, the nature of Abra<g ref="char:EOLhyphen"/>ham and took not upon him the nature of Angels, but of Adams ſeed, and a reaſonnable ſoul he uni<g ref="char:EOLhyphen"/>ted theſe two in his divine nature, in one perſon, and maried them, and makes you not to doubt of his willingnes, but that hee is content to mary and be eſpouſed to you. 2. I would urge you not to lett this good offer goe by, have ye much debt upon you, heir a Husband that will pay all your debt for you, and will never caſt it up to yon. 4, of Jeames if aney man lake wiſdome, let him aske of God that giveth liberaly, and upbraideth not. though he took you of the midding and you had nothing; he will up<g ref="char:EOLhyphen"/>brade no man notwithſtandinh all this. Nixt thing your Husband hath goed skill of Phiſick, you are ane unclean and unwholſom body, ſo full of ſores, mary him and he will make ointments and make plaiſters that will heal all your diſeaſes. Pſal. 103.
+<pb n="28" facs="tcp:180693:15"/>he will heal all your diſeaſes. 3. Mary him he is very kind Husband, O but he is kind, he will d<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> offices that non other will do, he will make all the<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> bed in ther ſicknes, he will ſeaſon ther bed, wi<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> much of himſelf, a kindly Husband that is very smuch taken up with the love of his people: and <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> they have love to him he will bear with mane<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> faults of them and not caſt at them, o ſay ye I will play the harlot, yet, ſayeth he, for all that returne unto me, wil ane other man take in a harlot again, but yet ſayeth hee return unto me, ſay<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>th the Lord, though you have played the harlot with maney lovers, yet return unto me.</p>
+            <p>Now I ſhall make a word of uſe, and this is th<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> uſe, what ſay ye to it, I ame come in Chriſts name as his Ambaſſador, &amp; this is my negotiation this day<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> are you contenr to marie him, hee will give you <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> brave dury, hee will give you Heaven, hee wi<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> give you anough: are you content to goe forth an<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> take a looke of him, O will ye take a look of him <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and gett a ſight of him, and ye will cray furth, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> that he would mary you. I will give you two thing<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> for incurragement to the text.</p>
+            <p>Firſt, you put a Crown upon his head, if yo<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> mary him, our rullers have taken the Crown of hi<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> head: but will, ye put the Crowu upon his head <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> you do it if you mary him. O are you content <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> heir ſuch a man hath put the Crown upon my head <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and hath come and believed, all my promiſes, and did all my commands and yealded to me, this looked to as a glad day.</p>
+            <p>Nixt it is the gladnes of his heart, this is glead newes to him, lett yon Miniſters blood goe for it, tho he ſhould be takne hee hath gained ſome ſouls
+<pb n="29" facs="tcp:180693:15"/>to me, and hath a day of eſpouſalsto me, it is <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> day of the gladnes of my heart lett the mans <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> rune what is the matter, ſeeing it is ſuch a glade day.</p>
+            <p>You have made him maney a fad heart, ô will ye make him a glad heart, and lett this be the day, and make the bargan and it ſhall be gladnes of heart to him.</p>
+            <p>I ſhall come and make a word of uſe &amp; it is this, do not think that we ae come to you this day in a light matter to you, &amp; the ſhoures are goeing round about us this day, and when he comes to offer us a day of the Goſpel, the Lord hath bound up the clouds wonder fullie, and this day hee hath called a meeting in this place, and its to lay out a buſſines that hee is much concerned with, a buſſines in his heart a long love, hee loved you befor the moun<g ref="char:EOLhyphen"/>tans wer, prov: 8. now this long love vented it ſelf in the fulnes of time, and Chriſt would no longer starie hee behoved to come from heaven to earth to ſuitea bride and hee is gone to heaven again, to pre<g ref="char:EOLhyphen"/>pair mainſions for his oun people and hath ſent out Miniſters of the Goſpel, wherof I ame one of the un worthieſt of them all to preſent unto you a mariag, and mak ane offer of him to you, ſis I dar not leave you till you give a peremtorie anſwer to Jeſus Chriſt, will ye cloſe with him, what ſay ye? we come to demand it, ſhall this be a day of eſpouſals betuixt Jeſus Chriſt and you, you are ga<g ref="char:EOLhyphen"/>thered togither heir, old men I require of you, upon the aleadgance of God, come in heir old men and old women, come and make a bargane, the world and thos things hath holdne you ſo long, therfor come now and make a bargan with Jeſus Chriſt,
+<pb n="30" facs="tcp:180693:16"/>ſhall this be a day of eſpouſals ſhall this be a day of <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> I aſſur you that you are not farr from the kingdom <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> heaven, I aſſur you as the Lord livith and as hee is in heavne, it will be a worlds wonder, if ever ye<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> gett the like of this day againe, therfor what is hee ſeeking of you? ô ſirs hee might have left Scotland and ſuffered our Parliaments to have takne away the Miniſters of the Goſpel, but hee behoved to give this offer to you att this time, therfor he is craying will you marie me, his bloed is craying will you ma<g ref="char:EOLhyphen"/>rie me, ſee what proof he is giving you, will you refuſe Chriſt will you crucifie him again, by giving him a new refuſall, ô ſirs what ſay ye what ſtands in your way of this mariag lett it be heird, have ye<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ought to object againſt Jeſus Chriſt, may he not be a match, would you have a better huſband, he i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> altogither lovlie, and beutiful, would you have <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> rich huſband, hee is the heir of heavne, hee is th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> heir of all things, would ye have a credible huſband he is thine, hee is all your credit would you have ſuch a match, then heer is it, ô then what ſay y<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> to it hee hath ſett a day her of eſpouſals hee hath ca<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>led to it, would ye ſend him away with a glad hear<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and ſend us away with a glad heart, and you to go<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> away with a glad heart, lett us ſee it in your wall and converſatione, and in your tendernes, that yo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> are edefied, whatt will you loſſ him who will ſpeil<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> for you if you refuſe fuch a match when the Juſtice of God bringes you to the rekoning, ther was th<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> man and the woman within a mile to greenock that had the offer of the Goſpel, and Chriſt came ou<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in the chariot of the Goſpel to them, and they went away and made not the bargane did not give him the full conſent, what ſhall we return for an<g ref="char:EOLhyphen"/>ſwer,
+<pb n="31" facs="tcp:180693:16"/>I take that ſun that shines and this hill that we are upon, and takes everie one of your conſciences, againſt you, and everie on of us to be witneſes a<g ref="char:EOLhyphen"/>gainſt one ane other, and for all the wrongs that e<g ref="char:EOLhyphen"/>ver you did to Chriſt, yet Chriſt is content to make out ane offer to you this day, and a mariage, this is my ſutting day, and may be, I never ſee your face again, (who knoues) ore you me again, but I knon we shall all meet again, in the day of Judgment, I aſſure you Sirs, ther are ſome heir of you, shall ne<g ref="char:EOLhyphen"/>ver hear ane other preaching ſome of you shall take your dead ill, befor ye hear ane other preaching, ô Sirs, therfor ſay what you will doe if you would make us a glad heart this day, then turn from your ſwearing &amp; and ſwear no more, and ye that have neglected prayer in your famelies and in ſecret, fall to in earneſt now, ore els ye shall be looked upon as neglecters of this great offer, and yet that are ne<g ref="char:EOLhyphen"/>glecters &amp; ſlighters of the Sabbath, do ſo no more, what ſay ye off it, will you give Chriſt ane anſwer I will have no anſwer, but look up to God and give him your anſwer, what ſay ye? goe ſay ye, I will have non of him, I will not forſake my luſts, and I will not forſake my drunkennes for him, ſtay till I come to death bed, then I will give the my con<g ref="char:EOLhyphen"/>ſent but as the Lord liveth, he will clape a curſe upon your head, if you do ſo, ô Sirs, what mean ye, are you keeping all your tears, till you goe to <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ell, ther is abundance ther, will you ſtill refuſe Chriſt? what have you a minde to do? to cloſe with him ore not, what ſay ye we moſt give him ane an<g ref="char:EOLhyphen"/>ſwer this night of you, we moſt give your anſwer to him, that ſent us to you, ſhall we ſay that thir peo<g ref="char:EOLhyphen"/>ple looked not like it, and ſome that had ther hearts
+<pb n="32" facs="tcp:180693:17"/>leaping within them, wer ſaying O I are <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to take him. ô Sirs give up your neams unto the <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and ſay you are content and he will be content <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> you, come with all your faults, and ye will find <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> a freind, and eaſie to be intreated, if you con<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> this to him, ſhortlie we ſhall choſe, O Sirs <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſayes the Lord, kno this is our earrand, noth<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> would be ſo joyfull to us, as that ye would ac<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> of our Maiſter as Eliazer ſaid, we moſt come <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> take a wife to our Maiſter, Abrahams ſon, ſo<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> come to a fitted place to the loins of Adam to ſe<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> wife to be maried to Chriſt O Sirs will ye putt <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> out will you not yeald now, you have ſtoodene <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> enough out &amp; lett it be ſeen that ye have made a <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> venant with him lett God hear what you ſay, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> lett you tell your tale to him, hee is neer at <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> head, round it unto him, hee will hear you <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> enough, and ſo if you do it you will make him <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> de heart, and you will make the divel a ſad he <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and wicked men a ſad heart, and prelats a ſad <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> we will gett no mor good of thes folk ſay they; <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> have loſt them, we will gett them no more fre<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> to us, we will be freinds to a perſecutted caus<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> his Goſpell, ſay to it, Sirs we are come to th<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> anſwer, we ſhall ſay no more, the Lord him <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> work upon you and work you up to this fram, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> cane onlie ſpeik to you, but no more, Paul <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> plant and Apollo may water but the Lord mo<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> ve the increas, the Lord bliſſ what hath bein<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> kne, and to his name be the praiſe.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
